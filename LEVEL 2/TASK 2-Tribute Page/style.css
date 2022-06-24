@@ -1,0 +1,108 @@
+body {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/cream-pixels.png");
+}
+
+.jumbotron {
+  position: relative;
+  background-image: url("wallpaperflare.com_wallpaper.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1 {
+  font-family: "Quicksand", sans-serif;
+  color: black;
+}
+
+h3 {
+  font-family: "Homemade Apple", cursive;
+  color: white;
+  margin-bottom: 1em;
+}
+
+h4 {
+  background: rgb(193, 190, 190);
+  font: black;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+ul {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  margin-top: 1em;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+}
+
+.spacer {
+  margin: 0;
+  padding: 0;
+  height: 220px;
+}
+
+img {
+  max-width: 70%;
+  height: auto;
+  max-height: 50%;
+  opacity: 0.3;
+  margin-top: 2em;
+  border-radius: 50%;
+  filter: alpha(opacity=20);
+}
+
+img:hover,
+img:active,
+img:focus {
+  background-image: url("https://giant.gfycat.com/CloseVeneratedHorseshoebat.gif");
+  opacity: 1;
+  filter: alpha(opacity=100); 
+}
+
+footer {
+  background: rgb(0, 0, 0);
+  margin-top: 3em;
+  margin-bottom: 2em;
+  padding: 0.5em;
+  color: white;
+}
+
+.centertxt {
+  position: absolute;
+  top: 43%;
+  left: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.jumbotron:active,
+.jumbotron:focus {
+  background-image: url("https://giant.gfycat.com/CloseVeneratedHorseshoebat.gif");
+  color: white !important;
+}
+
+blockquote {
+  background: rgb(197, 197, 197);
+  font: black;
+  font-family: "Homemade Apple", cursive;
+  margin-top: 3em;
+}
+
+strong {
+  color: #d3d3d3;
+}
+#img {
+  float: right;
+  margin-right: 1%;
+}
+
+#footr {
+  margin-left: 2em;
+}
